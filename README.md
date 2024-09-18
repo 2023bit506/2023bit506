@@ -1,3 +1,5 @@
+![logo](https://github.com/2023bit506/2023bit506/blob/main/forgit.jpg)
+
 <h1 align="center">Hi 👋, I'm currently studying computer science</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
