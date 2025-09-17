@@ -1,7 +1,7 @@
 ![logo](https://github.com/2023bit506/2023bit506/blob/main/forgit.jpg)
 
 <h1 align="center">Hi 👋, I'm currently studying computer science</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=2023bit506&label=Profile%20views&color=0e75b6&style=flat" alt="2023bit506" /> 
@@ -78,15 +78,3 @@
 </p>
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2023bit506&show_icons=true&locale=en&layout=compact" alt="2023bit506" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2023bit506&show_icons=true&locale=en" alt="2023bit506" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2023bit506&" alt="2023bit506" />
-</p>
