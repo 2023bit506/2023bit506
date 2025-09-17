@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/2023bit506">
-    <img src="https://i.imgur.com/your-custom-logo.png" alt="Shubham's Logo" width="150" height="150">
-  </a>
+  <img src="https://raw.githubusercontent.com/2023bit506/2023bit506/main/forgit.jpg" alt="Shubham's Logo" width="150" height="150">
   <h1>Hi 👋, I'm Shubham Pawar</h1>
   <h3>A passionate frontend developer from India</h3>
 </div>
